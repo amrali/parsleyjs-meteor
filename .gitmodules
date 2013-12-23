@@ -1,0 +1,3 @@
+[submodule "parsleyjs"]
+	path = parsleyjs
+	url = git@github.com:guillaumepotier/Parsley.js.git
