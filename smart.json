@@ -3,7 +3,7 @@
   "description": "Javascript forms validation. Powerful, UX aware, and dead simple.",
   "homepage": "https://github.com/amrali/parsleyjs-meteor",
   "author": "Amr Ali",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "git": "https://github.com/amrali/parsleyjs-meteor.git"
 }
 
