@@ -18,7 +18,7 @@ Template.name.rendered = function () {
 
   // Setup parsley form validation
   // replace form with the id of your form
-  $('#form').parsley({trigger: 'change'}));
+  $('#form').parsley({trigger: 'change'});
 }
 ```
 
