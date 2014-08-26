@@ -1,0 +1,39 @@
+@import "parsley_variables.less";
+
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+  color: @success_fg;
+  background-color: @success_bg;
+  border: 1px solid @success_border;
+}
+
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+  color: @error_fg;
+  background-color: @error_bg;
+  border: 1px solid @error_border;
+}
+
+.parsley-errors-list {
+  margin: 2px 0 3px 0;
+  color: @error_list_font_color;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  line-height: 0.9em;
+  opacity: 0;
+  -moz-opacity: 0;
+  -webkit-opacity: 0;
+
+  transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -webkit-transition: all .3s ease-in;
+}
+
+.parsley-errors-list.filled {
+  opacity: 1;
+}
