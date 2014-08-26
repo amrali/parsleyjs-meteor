@@ -22,6 +22,14 @@ Template.name.rendered = function () {
 }
 ```
 
+Don't forget to include a `data-parsley-validate` element in every form to be validated
+
+```
+<form id="form" data-parsley-validate>
+  ... 
+</form>
+```
+
 
 Customizing CSS using Less
 ==========================
