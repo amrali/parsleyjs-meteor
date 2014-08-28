@@ -12,11 +12,11 @@ Quick Setup
 
 For 0.9.0 and newer run this to install. 
 
-meteor add amr:parsley.js
+`meteor add amr:parsley.js`
 
 For versions older than 0.9.0 run this to install.
 
-mrt add parsley.js
+`mrt add parsley.js`
 
 Edit your .js file
 
