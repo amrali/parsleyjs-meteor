@@ -12,7 +12,7 @@ Quick Setup
 
 For 0.9.0 and newer run this to install. 
 
-meteor add mrt:parsley.js
+meteor add amr:parsley.js
 
 For versions older than 0.9.0 run this to install.
 
