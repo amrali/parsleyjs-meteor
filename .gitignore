@@ -1,2 +1,8 @@
 packages
 smart.lock
+
+.idea/.name
+
+*.xml
+
+.idea/parsleyjs-meteor.iml
